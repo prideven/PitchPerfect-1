@@ -30,8 +30,8 @@ When the app first starts it will open the _Recording View_.
   - By pressing the stop button the recording should stpped and navigate the user to the _Playing View_ for playing his/her recording.
 
 <div>
-<img src='ReadMe%20Images/record-1.png' width = 150 height = 300>&nbsp; &nbsp;
-<img src='ReadMe%20Images/record-2.png' width = 150 height = 300>&nbsp; &nbsp;
+<img src='Screenshots/record-1.png' width = 150 height = 300>&nbsp; &nbsp;
+<img src='Screenshots/record-2.png' width = 150 height = 300>&nbsp; &nbsp;
 </div>
 
 
@@ -41,8 +41,8 @@ When the app first starts it will open the _Recording View_.
 This view allows user to play the recorded sound by six different tones.
 
 <div>
-<img src='ReadMe%20Images/play-1.png' width = 150 height = 300>&nbsp; &nbsp;
-<img src='ReadMe%20Images/play-2.png' width = 150 height = 300>&nbsp; &nbsp;
+<img src='Screenshots/play-1.png' width = 150 height = 300>&nbsp; &nbsp;
+<img src='Screenshots/play-2.png' width = 150 height = 300>&nbsp; &nbsp;
 </div>
 
 
