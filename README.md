@@ -11,9 +11,6 @@ _This app uses the following frameworks & technologies_
 > AutoLayout &nbsp; &nbsp; &nbsp;
 > Asynchronous Programming
 
-## App Description
-"Pitch Perfect" is an iOS mobile app allows users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader.  This app will also let the user speed up or slow down the rate of playback, and experience fun echo and reverb effects.
-
 #Viewcontrollers
 RecordSoundsViewController - This has the record button and stop record button, once recording is dont it navigates to PlaySoundsViewController with the performSegue function.
 PlaySoundsViewController - This view uses the audio recorded and has six different buttons for playbacks.
